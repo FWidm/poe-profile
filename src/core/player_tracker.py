@@ -1,12 +1,8 @@
-import asyncio
-from typing import List, Dict
 
 import copy
 
-import logging
 
 from src.core.parser import CharacterParser
-from src.util.scheduler import Scheduler
 
 
 class PlayerTracker():

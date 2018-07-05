@@ -3,7 +3,6 @@ import logging
 
 import sys
 
-from src.core import PoeData
 
 import unittest
 
